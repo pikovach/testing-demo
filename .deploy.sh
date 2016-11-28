@@ -10,8 +10,8 @@ cd site
 git init
 
 # Configure Git
-git config user.name "Travis CI"
-git config user.email "nbartlett7@gmail.com"
+git config user.name "pikovach"
+git config user.email "pikovach@live.unc.edu"
 
 # Commit all the things into the repo
 git add .
